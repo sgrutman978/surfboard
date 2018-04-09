@@ -1,0 +1,1040 @@
+[13-Jun-2014 17:33:26 UTC] PHP Fatal error:  Call to undefined function file_get_content() in /home/sgrutman/stevengrutman/storyboard/loadBoard.php on line 13
+[21-Jul-2014 06:38:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66846673 bytes) in /home/sgrutman/stevengrutman/surfboard/doFriendStuff.php on line 8
+[21-Jul-2014 06:40:34 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66846674 bytes) in /home/sgrutman/stevengrutman/surfboard/doFriendStuff.php on line 8
+[21-Jul-2014 06:40:44 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66846674 bytes) in /home/sgrutman/stevengrutman/surfboard/doFriendStuff.php on line 8
+[21-Jul-2014 06:40:47 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 66846673 bytes) in /home/sgrutman/stevengrutman/surfboard/doFriendStuff.php on line 8
+[22-Jul-2014 00:18:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/check.php on line 11
+[22-Jul-2014 00:18:24 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 00:18:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:18:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:18:30 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 00:18:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 00:18:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:18:33 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 00:18:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 00:18:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:18:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:18:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:18:40 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 00:18:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:18:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:18:42 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 00:18:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 00:18:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:18:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:18:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:19:22 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 00:19:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 00:19:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:19:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:19:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:19:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:20:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:20:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:20:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:20:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:20:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:20:29 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 00:20:29 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 00:20:29 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 00:23:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:23:01 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 00:23:01 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 00:23:01 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 00:24:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/check.php on line 11
+[22-Jul-2014 00:24:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:24:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:24:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:24:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:24:08 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 00:24:08 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 00:24:08 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 00:24:27 UTC] PHP Notice:  Undefined variable: row in /home/sgrutman/stevengrutman/surfboard/doFriendStuff.php on line 25
+[22-Jul-2014 00:25:48 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/sgrutman/stevengrutman/surfboard/check.php on line 34
+[22-Jul-2014 00:25:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/check.php on line 11
+[22-Jul-2014 00:25:52 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 00:25:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:25:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:25:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/check.php on line 11
+[22-Jul-2014 00:25:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:25:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:26:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:26:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:26:03 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 00:26:03 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 00:26:03 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 00:26:06 UTC] PHP Notice:  Undefined variable: row in /home/sgrutman/stevengrutman/surfboard/doFriendStuff.php on line 25
+[22-Jul-2014 00:26:19 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 00:26:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:26:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:27:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:27:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 00:27:27 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 00:27:27 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 00:27:27 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 00:59:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/check.php on line 11
+[22-Jul-2014 00:59:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 00:59:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 01:02:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:07 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 01:03:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:36 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:38 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:38 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:38 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:38 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:03:39 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:03:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:04:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 01:04:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 01:04:38 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 01:04:38 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 01:04:38 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 01:04:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 01:06:49 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:06:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:06:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:06:52 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:06:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:06:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 01:06:55 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:06:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 01:06:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:32:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/check.php on line 11
+[22-Jul-2014 04:32:20 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 04:32:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:32:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 04:41:14 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 04:41:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:41:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 04:41:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 04:41:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 04:41:29 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 04:41:29 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 04:41:29 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 04:41:31 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 04:41:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:41:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:41:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:41:46 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 04:41:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:41:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:41:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:41:51 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 04:41:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:42:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:42:27 UTC] PHP Notice:  Undefined variable: row in /home/sgrutman/stevengrutman/surfboard/doFriendStuff.php on line 25
+[22-Jul-2014 04:44:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:44:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:44:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:44:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:44:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:44:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:44:37 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 04:44:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:45:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:45:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:46:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:46:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:46:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:46:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:46:10 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 04:46:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:49:19 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 04:49:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:49:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 04:49:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 04:49:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 04:49:20 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 04:49:20 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 04:49:20 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 04:55:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:56:02 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 04:56:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 04:56:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:56:18 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 04:56:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 04:56:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 04:57:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:06:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:06:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:06:46 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:06:46 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:06:46 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:26:36 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:26:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:26:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:26:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:26:44 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:26:44 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:26:44 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:26:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:26:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:26:50 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:26:50 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:26:50 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:26:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:26:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:26:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:26:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:26:59 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:26:59 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:26:59 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:27:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:27:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:27:39 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:27:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:27:39 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:27:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:27:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:27:39 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:27:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:27:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:27:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:28:27 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:28:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:28:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:28:27 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:28:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:28:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:28:27 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:28:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:28:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:28:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:28:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:28:30 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:28:30 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:28:30 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:28:32 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:28:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:28:32 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:28:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:28:34 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:28:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:28:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:28:34 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:28:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:28:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:28:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:29:01 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:29:01 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:29:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:29:04 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:29:04 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:29:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:29:06 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:29:06 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:29:06 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:29:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:29:08 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:29:08 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:29:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:29:09 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:29:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:29:09 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:29:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:29:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:32:53 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:32:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:32:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:32:53 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:32:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:32:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:32:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:32:54 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:32:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:32:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:32:54 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:32:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:32:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:32:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:32:55 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:32:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:32:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:32:55 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:32:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:32:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:32:55 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:32:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:33:23 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:33:23 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:33:23 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:33:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:33:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:33:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:33:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:33:26 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:33:26 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:33:26 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:33:28 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:33:28 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:33:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:33:30 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:33:30 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:33:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:33:35 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:33:35 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:33:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:33:37 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:33:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:33:37 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:33:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:33:37 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:33:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:35:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:35:32 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:35:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:35:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:35:32 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:35:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:35:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:35:34 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:35:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:35:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:35:34 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:35:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:35:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:35:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:35:35 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:35:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:35:35 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:35:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:35:35 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:35:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:35:38 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:35:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:35:38 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:35:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:35:38 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:37:01 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:37:01 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:37:01 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:37:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:37:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:37:31 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:37:31 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:37:31 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:37:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:37:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:37:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:37:41 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:37:41 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:37:41 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:37:43 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:37:43 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:37:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:37:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:37:46 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:37:46 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:37:49 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:37:49 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:37:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:37:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:37:51 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:37:51 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:37:55 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:37:55 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:37:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:38:56 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:38:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:38:56 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:38:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:38:56 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:38:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:38:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:38:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:38:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:38:59 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:38:59 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:38:59 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:39:01 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:39:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:39:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:39:01 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:39:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:39:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:39:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:40:06 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:40:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:40:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:40:06 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:40:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:40:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:40:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:40:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:40:09 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:40:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:40:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:40:09 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:40:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:40:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:40:11 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:40:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:40:11 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:40:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:40:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:40:11 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:40:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:40:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:41:47 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:41:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:41:47 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:41:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 7
+[22-Jul-2014 05:41:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:41:50 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:41:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:41:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:41:50 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:41:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:41:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 7
+[22-Jul-2014 05:41:56 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:41:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:41:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:41:56 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:41:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:41:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 7
+[22-Jul-2014 05:41:56 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:41:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:42:33 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:42:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:42:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:42:33 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:42:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:42:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:42:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:42:35 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:42:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:42:35 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:42:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:42:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:42:35 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:42:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:42:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:42:38 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:42:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:42:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:42:38 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:42:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:42:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:42:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:42:41 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:42:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:42:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:42:41 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:42:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:42:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:42:41 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:42:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:42:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:43:49 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:43:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 2
+[22-Jul-2014 05:43:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 3
+[22-Jul-2014 05:43:49 UTC] PHP Notice:  Undefined variable: con in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:43:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:43:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 6
+[22-Jul-2014 05:43:49 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:43:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:43:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:44:44 UTC] PHP Notice:  Undefined index: userIDID in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:44:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 7
+[22-Jul-2014 05:44:44 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:44:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:44:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:44:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:44:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:44:58 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:44:58 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:44:58 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:45:00 UTC] PHP Notice:  Undefined index: userIDID in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:45:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 7
+[22-Jul-2014 05:45:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:45:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:45:02 UTC] PHP Notice:  Undefined index: userIDID in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 5
+[22-Jul-2014 05:45:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/checkFriendship.php on line 7
+[22-Jul-2014 05:45:17 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:45:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:45:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:45:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:45:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:45:20 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:45:20 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:45:20 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:45:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:45:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:45:38 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:45:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:45:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:45:44 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:45:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:45:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:45:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:45:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:45:47 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:45:47 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:45:47 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:45:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:46:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:47:56 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 05:47:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 05:47:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:03 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 05:48:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 05:48:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:48:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:48:08 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:48:08 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:48:08 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:48:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:15 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 05:48:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 05:48:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:48:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:48:21 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:48:21 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:48:21 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:48:22 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:48:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:33 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:48:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:34 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:48:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:48:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:48:36 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:48:36 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:48:36 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:48:39 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:48:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:47 UTC] PHP Notice:  Undefined variable: result55 in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 05:48:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 20
+[22-Jul-2014 05:48:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:48:49 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:48:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:50:02 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:50:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:50:13 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:50:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:50:28 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:50:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:50:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:50:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:51:00 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 7
+[22-Jul-2014 05:51:00 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 63
+[22-Jul-2014 05:51:00 UTC] PHP Notice:  Undefined index: type in /home/sgrutman/stevengrutman/surfboard/returnSearch.php on line 76
+[22-Jul-2014 05:51:02 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:51:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[22-Jul-2014 05:55:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:55:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, integer given in /home/sgrutman/stevengrutman/surfboard/suggestions.php on line 6
+[22-Jul-2014 05:55:50 UTC] PHP Notice:  Undefined index: userID in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 21
+[22-Jul-2014 05:55:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/sgrutman/stevengrutman/surfboard/followButton.php on line 22
+[04-Aug-2014 00:36:02 UTC] PHP Fatal error:  Call to undefined function imagecrop() in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 7
+[04-Aug-2014 00:37:38 UTC] PHP Fatal error:  Call to undefined function imagecrop() in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 7
+[04-Aug-2014 00:37:41 UTC] PHP Fatal error:  Call to undefined function imagecrop() in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 7
+[04-Aug-2014 00:37:59 UTC] PHP Fatal error:  Call to undefined function imagecrop() in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 7
+[04-Aug-2014 00:38:01 UTC] PHP Fatal error:  Call to undefined function imagecrop() in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 7
+[04-Aug-2014 00:39:24 UTC] PHP Fatal error:  Call to undefined function imagecrop() in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 7
+[04-Aug-2014 00:39:26 UTC] PHP Fatal error:  Call to undefined function imagecrop() in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 7
+[04-Aug-2014 00:42:50 UTC] PHP Fatal error:  Call to a member function setImageFormat() on a non-object in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 8
+[04-Aug-2014 00:44:24 UTC] PHP Fatal error:  Call to undefined function imgstring() in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 3
+[04-Aug-2014 00:44:39 UTC] PHP Fatal error:  Call to a member function setImageFormat() on a non-object in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 8
+[04-Aug-2014 00:44:58 UTC] PHP Fatal error:  Call to a member function setImageFormat() on a non-object in /home/sgrutman/stevengrutman/surfboard/saveProfPic.php on line 8
+[04-Aug-2014 01:26:00 UTC] PHP Fatal error:  Class 'ImageManipulator' not found in /home/sgrutman/stevengrutman/surfboard/uploadImage.php on line 21
+[04-Aug-2014 01:39:52 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phphL8dnZ is not readable' in /home/sgrutman/stevengrutman/surfboard/uploadImage.php:47
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/uploadImage.php(30): ImageManipulator->setImageFile('/tmp/phphL8dnZ')
+#1 /home/sgrutman/stevengrutman/surfboard/uploadImage.php(307): ImageManipulator->__construct('/tmp/phphL8dnZ')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/uploadImage.php on line 47
+[04-Aug-2014 17:23:43 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpikdB4k is not readable' in /home/sgrutman/stevengrutman/surfboard/uploadImage.php:47
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/uploadImage.php(30): ImageManipulator->setImageFile('/tmp/phpikdB4k')
+#1 /home/sgrutman/stevengrutman/surfboard/uploadImage.php(307): ImageManipulator->__construct('/tmp/phpikdB4k')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/uploadImage.php on line 47
+[04-Aug-2014 17:43:05 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Image file /tmp/phpz5AQbS is not readable' in /home/sgrutman/stevengrutman/surfboard/uploadImage.php:47
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/uploadImage.php(30): ImageManipulator->setImageFile('/tmp/phpz5AQbS')
+#1 /home/sgrutman/stevengrutman/surfboard/uploadImage.php(307): ImageManipulator->__construct('/tmp/phpz5AQbS')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/uploadImage.php on line 47
+[08-Aug-2014 02:46:59 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/avigol...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/avigol...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[08-Aug-2014 02:46:59 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/avigol...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/avigol...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[24-Aug-2014 00:52:50 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/smiley...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/smiley...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 02:59:38 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:17 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:17 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:17 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:17 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:17 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:17 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:20 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:20 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:20 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:20 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:20 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:20 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:20 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:35 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:35 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:35 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:35 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:35 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:35 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:35 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:35 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:42 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 03:06:46 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/hailey...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/hailey...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 05:03:13 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/JSinge...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/JSinge...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 05:05:33 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/JSinge...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/JSinge...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 05:05:33 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/JSinge...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/JSinge...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 05:05:33 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/JSinge...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/JSinge...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 05:05:38 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/JSinge...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/JSinge...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 05:05:38 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/JSinge...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/JSinge...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 05:05:38 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/JSinge...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/JSinge...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[25-Aug-2014 05:05:38 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/JSinge...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/JSinge...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[28-Aug-2014 16:46:18 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/yehuda...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/yehuda...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[28-Aug-2014 16:46:18 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/yehuda...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/yehuda...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[28-Aug-2014 16:46:22 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/yehuda...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/yehuda...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[28-Aug-2014 16:46:22 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/yehuda...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/yehuda...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[28-Aug-2014 16:46:22 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/yehuda...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/yehuda...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[31-Aug-2014 20:50:09 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/Ben/pi...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/Ben/pi...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[31-Aug-2014 20:50:09 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/Ben/pi...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/Ben/pi...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[31-Aug-2014 20:50:09 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/Ben/pi...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/Ben/pi...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[31-Aug-2014 20:50:09 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/Ben/pi...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/Ben/pi...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[31-Aug-2014 20:50:09 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/Ben/pi...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/Ben/pi...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[31-Aug-2014 20:50:09 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/Ben/pi...')
+#1 /home/sgrutman/stevengrutman/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/Ben/pi...')
+#2 {main}
+  thrown in /home/sgrutman/stevengrutman/surfboard/ImageManipulator.php on line 86
+[12-Jan-2015 02:18:19 UTC] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'Cannot create image from data string' in /home/sgrutman/surfboard/surfboard/ImageManipulator.php:86
+Stack trace:
+#0 /home/sgrutman/surfboard/surfboard/ImageManipulator.php(31): ImageManipulator->setImageString('userInfo/anonym...')
+#1 /home/sgrutman/surfboard/surfboard/cropImage.php(16): ImageManipulator->__construct('userInfo/anonym...')
+#2 {main}
+  thrown in /home/sgrutman/surfboard/surfboard/ImageManipulator.php on line 86

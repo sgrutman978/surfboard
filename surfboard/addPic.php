@@ -1,0 +1,1 @@
+<div style='height:100%;width:100%;overflow:hidden;color:rgb(125,58,0);font:bold;font-size:25px;text-align:center'></br>Choose a picture:</br><form action='uploadImage.php' method='post' enctype='multipart/form-data'><input type='file' value='Choose Picture' name='file' accept='image/*'></input></br><input type='submit' name='submit'></input></form></div>
